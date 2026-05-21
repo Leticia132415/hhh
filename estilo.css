@@ -7,11 +7,7 @@ body{
     background-color: bisque;
 }
 .cabecalho{
-    background-color: black;
+    background-color:aliceblue;
     display: flex;
     justify-content: space-between;
-}
-h1{
-    color: aliceblue;
-    
 }
