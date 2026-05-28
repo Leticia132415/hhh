@@ -5,12 +5,12 @@
 
 body{
     background-color: bisque;
+    color: aliceblue;
 }
 .cabecalho{
     background-color: black;
     display: flex;
     justify-content: space-between;
     padding: 15px 25px;
-    color: aliceblue;
     align-items: center;
 }
