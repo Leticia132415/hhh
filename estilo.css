@@ -10,7 +10,7 @@ body{
     background-color: black;
     display: flex;
     justify-content: space-between;
-    padding: 0%;
-    align-items: center;
+    padding: 15px 25px;
     color: aliceblue;
+    align-items: center;
 }
