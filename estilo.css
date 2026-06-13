@@ -16,4 +16,8 @@ body{
     padding: 15px 25px;
     align-items: center;
     }
+    img{
+        width: 30px;
+        height: auto;
+    }
 }
