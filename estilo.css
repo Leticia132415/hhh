@@ -8,7 +8,7 @@
 body{
     color: white;
     font-family: "Inconsolata", monospace;
-    background-color: #111844;
+    background-color: #000000;
 .cabecalho{
     background-color: black;
     display: flex;
@@ -16,8 +16,5 @@ body{
     padding: 15px 25px;
     align-items: center;
     }
-    .cartao-verso{
-        width: 250px;
-        height: 250px;
-    }
+    
 }
