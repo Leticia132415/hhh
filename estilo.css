@@ -9,6 +9,7 @@ body{
     color: white;
     font-family: "Inconsolata", monospace;
     background-color: #393E46;
+
 .cabecalho{
     background-color: black;
     display: flex;
@@ -19,7 +20,7 @@ body{
     .cartao{
      width: 260px;
      height: 200px;
-    }
+     font-size: 18px;}
      .cartao img{
      width: 80%;
     }
