@@ -24,4 +24,10 @@ body{
      .cartao img{
      width: 80%;
     }
+    main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex: 1;
+    }
 }
