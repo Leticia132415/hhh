@@ -42,6 +42,7 @@ body{
     }
     .cartao-verso{
         transform: rotateY(180deg);
+        background-color: #fff;
     }
     .cartao-frente, .cartao-verso{
         position: absolute;
@@ -50,5 +51,8 @@ body{
         backface-visibility: hidden;
         width: 100%;
         height: 100%;
+    }
+    .cartao-verso{
+        background-color: #fff;
     }
 
