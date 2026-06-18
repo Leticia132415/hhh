@@ -9,7 +9,7 @@ body{
     color: black;
     font-family: "Caveat", cursive;
     background-color: #FBC3C1;
-
+}
 .cabecalho{
     background-color: #612D53;
     display: flex;
@@ -47,4 +47,4 @@ body{
         box-shadow: 0 6px 12px rgba(0,0,0,0,15);
         backface-visibility: hidden;
     }
-}
+
