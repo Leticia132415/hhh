@@ -44,7 +44,6 @@ body{
     }
     .cartao-verso{
         transform: rotateY(180deg);
-        background-color: #fff;
     }
     .cartao-frente, .cartao-verso{
         width: 100%;
@@ -61,7 +60,5 @@ body{
         box-sizing: border-box;
        
     }
-    .cartao-verso{
-        background-color: #fff;
-    }
+    
 
