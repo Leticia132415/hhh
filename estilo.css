@@ -53,5 +53,8 @@ body{
     h1{
         color: aliceblue;
     }
-    
+    section{
+        display: flex;
+        gap: 16px;
+    }
 
